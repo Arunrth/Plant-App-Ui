@@ -3,6 +3,7 @@ import { StyleSheet, Text, TextInput, View } from 'react-native'
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons'
 
 const HomeScreen = () => {
+    console.log('git check')
     return (
         <View style={styles.mainV}>
             <View style={styles.firstV}>
